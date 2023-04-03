@@ -41,16 +41,22 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NidhiZala]
 
 ## Education
 **Lakehead University (2021-2023)**, Master in  Computer Science, Computer Engineering
-- Scholarship
-- Dean's List (2015, 2016): Ut enim ad minim veniam
-- GPA: 3.8/4.0
 
-**XYZ university (2016-2018)**, Master of Engineering, Electrical and Computer Engineering
+**Navrachana university (2016-2020)**, Bachelors in Technology Computer Science, Computer Engineering
 
 
 ## Miscellaneous
-- Udacity Machine Learning (2019)
-- Winner
-- Basketball player
-- Competitive gaming
-- Volunteer, ABC Food bank: Ut enim ad minim veniam
+- IBM INTERNET OF THINGS - ADVANCE CERTIFICATE
+- NEURAL NETWORKS & DEEP LEARNING (COURSERA)
+- INTRODUCTION TO DATA SCIENCE IN PYTHON (COURSERA)
+- BUILD FULL WEBSITE WITH WORDPRESS (COURSERA)
+- MACHINE LEARNING API' S ( QWIKLABS)
+- INTRO TO ML ~ LANGUAGE PROCESSING (QWIKLABS)
+- INTRO TO ML ~ IMAGE PROCESSING (QWIKLABS)
+- INTERMEDIATE_ML ~ TENSORFLOW GCP (QWIKLABS)
+- GCP ESSENTIALS (QWIKLABS)
+- BIGQUERY FOR MACHINE LEARNING (QWIKLABS)
+- BASELINE ~ DATA, ML, AI (QWIKLABS)
+- CLASSICAL INDIAN VOCALIST
+- GOOGLE DEVELOPERS CLUB MEMBER
+- ORGANIZER AT VADOADARA INTERNATIONAL MARATHON (4 YEARS)
