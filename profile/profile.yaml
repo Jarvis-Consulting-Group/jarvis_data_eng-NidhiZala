@@ -89,11 +89,13 @@ education:
     duration: "2021-2023"
     degree: "Master in  Computer Science"
     department: "Computer Engineering"
-
-  - school_name: "XYZ university"
-    duration: "2016-2018"
-    degree: "Master of Engineering"
-    department: "Electrical and Computer Engineering"
+    awards_achievements:
+    
+  - school_name: "Navrachana university"
+    duration: "2016-2020"
+    degree: "Bachelors in Technology Computer Science"
+    department: "Computer Engineering"
+    awards_achievements:
     
 
 #Optional section
