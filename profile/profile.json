@@ -1,11 +1,7 @@
 {
   "education": [
     {
-      "awards_achievements": [
-        "Scholarship",
-        "Dean's List (2015, 2016): Ut enim ad minim veniam",
-        "GPA: 3.8/4.0"
-      ],
+      "awards_achievements": null,
       "degree": "Master in  Computer Science",
       "department": "Computer Engineering",
       "duration": "2021-2023",
@@ -13,10 +9,10 @@
     },
     {
       "awards_achievements": null,
-      "degree": "Master of Engineering",
-      "department": "Electrical and Computer Engineering",
-      "duration": "2016-2018",
-      "school_name": "XYZ university"
+      "degree": "Bachelors in Technology Computer Science",
+      "department": "Computer Engineering",
+      "duration": "2016-2020",
+      "school_name": "Navrachana university"
     }
   ],
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_NidhiZala",
@@ -57,7 +53,17 @@
   "others": [
     {
       "bullets": [
-        "Udacity Machine Learning (2019)"
+        "IBM INTERNET OF THINGS - ADVANCE CERTIFICATE?",
+        "NEURAL NETWORKS \u0026 DEEP LEARNING (COURSERA)?",
+        "INTRODUCTION TO DATA SCIENCE IN PYTHON (COURSERA)?",
+        "BUILD FULL WEBSITE WITH WORDPRESS (COURSERA)?",
+        "MACHINE LEARNING API' S ( QWIKLABS)?",
+        "INTRO TO ML ~ LANGUAGE PROCESSING (QWIKLABS)?",
+        "INTRO TO ML ~ IMAGE PROCESSING (QWIKLABS)?",
+        "INTERMEDIATE_ML ~ TENSORFLOW GCP (QWIKLABS)?",
+        "GCP ESSENTIALS (QWIKLABS)?",
+        "BIGQUERY FOR MACHINE LEARNING (QWIKLABS)?",
+        "BASELINE ~ DATA, ML, AI (QWIKLABS)?"
       ],
       "title": "Certificates"
     },
@@ -69,9 +75,10 @@
     },
     {
       "bullets": [
-        "Basketball player",
-        "Competitive gaming",
-        "Volunteer, ABC Food bank: Ut enim ad minim veniam"
+        "Classical Indian Vocalist",
+        "Part of Google Developer Club (2 years) ",
+        "Part of Mozilla Club (2 years)",
+        "Organizer Vadodara International Marathon (4 years)"
       ],
       "title": "Activities/Hobbies"
     }
