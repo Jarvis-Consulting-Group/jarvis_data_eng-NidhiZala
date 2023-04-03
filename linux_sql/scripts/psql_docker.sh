@@ -11,44 +11,25 @@ sudo systemctl status docker || systemctl start docker
 docker container inspect jrvs-psql
 container_status=$?
 
-<<<<<<< HEAD
-#User switch case to handle create|stop|start options
-case $cmd in
-  create)
-
-=======
 #Here we use switch case to handle create|stop|start options
 case $cmd in
   create)
 
   #if the container status = 0
->>>>>>> feature/psql_docker
   if [ $container_status -eq 0 ]; then
 		echo 'Container already exists'
 		exit 0
 	fi
 
-<<<<<<< HEAD
-
-=======
->>>>>>> feature/psql_docker
   if [ $# -ne 3 ]; then
     echo 'Create requires username and password'
     exit 1
   fi
-<<<<<<< HEAD
-  	docker volume create pgdata
-	docker run --name jrvs-psql -e POSTGRES_USERNAME=db_username -e POSTGRES_PASSWORD=db_password -d -v pgdata:/var/lib/postgresql/data -p 5432:5432 postgres:9.6-alpine
-	exit $?
-	;;
-
-=======
 
   docker volume create pgdata
 	docker run --name jrvs-psql -e POSTGRES_USERNAME=db_username -e POSTGRES_PASSWORD=db_password -d -v pgdata:/var/lib/postgresql/data -p 5432:5432 postgres:9.6-alpine
 	exit $?
 	;;
->>>>>>> feature/psql_docker
   start|stop)
 
   if [ $container_status -ne 0 ]; then
@@ -56,10 +37,6 @@ case $cmd in
 	 exit 1
 	fi
 
-<<<<<<< HEAD
-
-=======
->>>>>>> feature/psql_docker
 	docker container $cmd jrvs-psql
 	exit $?
 	;;
