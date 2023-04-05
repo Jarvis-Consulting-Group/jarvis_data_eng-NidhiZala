@@ -21,7 +21,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NidhiZala]
 ## Highlighted Projects
 **Mind Machine Interface**: This project is an aid for disabled people. It helps the person to control objects using their brain sensing. Observing the movements in the signals and coding on the sensors, MATLAB helped to achieve the expected outcomes.PHASE one was Controlling a single device with contraction and relaxation of neurons in hand.PHASE two was Controlling devices in the house with brain signals produced, helped especially for the disabled.
 
-**ChatterBox the Realtime Chat Applicatioj**: Real-time chat application with features like chatting, screen sharing, Audio call, Video call, and much more with a great user interface and smooth transitions throughout the webpage. The project was based on the MERN stack (Mongo DB, Express.js, React.js, Node.js) so that it is easily extendable and up to date
+**ChatterBox the Realtime Chat Application**: Real-time chat application with features like chatting, screen sharing, Audio call, Video call, and much more with a great user interface and smooth transitions throughout the webpage. The project was based on the MERN stack (Mongo DB, Express.js, React.js, Node.js) so that it is easily extendable and up to date
 
 **Smart Toll Plaza**: It is a user-friendly application/wallet where the user can add the money to the wallet. With this wallet and embedded chip, the person just passes by the toll Plazas with an automatic deduction of tax, without waiting in lines for the same.
 
