@@ -29,6 +29,8 @@ bash host_usage.sh psql_host psql_port db_name psql_user psql_password
 # Implementation
 
 ## Architecture
+
+
 ## Scripts
 Below descriptions elaborates all the scripts utilized in the project.
 ## psql_docker.sh
