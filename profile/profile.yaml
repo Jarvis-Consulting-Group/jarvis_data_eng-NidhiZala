@@ -52,8 +52,8 @@ highlighted_projects:
   - name: "Mind Machine Interface [Published by Journal :IJRESM]"
     #URL is optional
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: This project is an aid for disabled people. It helps the person to control objects using their brain sensing. Observing the movements in the signals and coding on the sensors, MATLAB helped to achieve the expected outcomes.
-      Phase 1 - Controlling a single device with contraction and relaxation of neurons in hand. This project conducted the tests on a Servo Motor which could turn on and of by fetching movement of neurons basically, contraction and relaxation of the fist.
+    description: This project is an aid for disabled people. It helps the person to control objects using their brain sensing. Observing the movements in the signals and coding on the sensors, MATLAB helped to achieve the expected outcomes. \newline
+      Phase 1 - Controlling a single device with contraction and relaxation of neurons in hand. This project conducted the tests on a Servo Motor which could turn on and of by fetching movement of neurons basically, contraction and relaxation of the fist. \newline
       Phase 2 - Controlling devices inside the house like fans and bulbs with the help of brain signals produced, This technology can be used for people with disability in terms of providing ease where they can control everything with the help of signals.
 
   - name: "ChatterBox the Realtime Chat Application [Accepted under IEEE]"
