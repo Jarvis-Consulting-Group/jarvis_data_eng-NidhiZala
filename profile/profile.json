@@ -18,27 +18,27 @@
   "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_NidhiZala",
   "highlighted_projects": [
     {
-      "description": "This project is an aid for disabled people. It helps the person to control objects using their brain sensing. Observing the movements in the signals and coding on the sensors, MATLAB helped to achieve the expected outcomes.PHASE one was Controlling a single device with contraction and relaxation of neurons in hand.PHASE two was Controlling devices in the house with brain signals produced, helped especially for the disabled.",
-      "name": "Mind Machine Interface"
+      "description": "This project is an aid for disabled people. It helps the person to control objects using their brain sensing. Observing the movements in the signals and coding on the sensors, MATLAB helped to achieve the expected outcomes. Phase 1 - Controlling a single device with contraction and relaxation of neurons in hand. This project conducted the tests on a Servo Motor which could turn on and of by fetching movement of neurons basically, contraction and relaxation of the fist. Phase 2 - Controlling devices inside the house like fans and bulbs with the help of brain signals produced, This technology can be used for people with disability in terms of providing ease where they can control everything with the help of signals.",
+      "name": "Mind Machine Interface [Published by Journal :IJRESM]"
     },
     {
       "description": "Real-time chat application with features like chatting, screen sharing, Audio call, Video call, and much more with a great user interface and smooth transitions throughout the webpage. The project was based on the MERN stack (Mongo DB, Express.js, React.js, Node.js) so that it is easily extendable and up to date",
-      "name": "ChatterBox the Realtime Chat Application"
+      "name": "ChatterBox the Realtime Chat Application [Accepted under IEEE]"
     },
     {
-      "description": "It is a user-friendly application/wallet where the user can add the money to the wallet. With this wallet and embedded chip, the person just passes by the toll Plazas with an automatic deduction of tax, without waiting in lines for the same.",
+      "description": "It is a user-friendly application/wallet where the user can add their money to the wallet just like a usual app, for instance, as we add money in our amazon pay.  The wallet is connected to embedded chip requirements, the customer just passes by the toll Plazas will have an automatic deduction of their toll tax, without waiting in queues for the same.",
       "name": "Smart Toll Plaza"
     },
     {
-      "description": "This project is utilized for Locating 80% of Bins in the city and sending alerts to the corporation based on harmful Gases released from bins and the level of bin filled. It is a GPS-inclusive app for the trash collection van to locate maximum bins position and replace the on-time.",
+      "description": "This project is utilized for Locating  Bins in the city and sending alerts to the city corporation the data is based on harmful Gases that are being released from bins and the level of bin filled. It is a GPS-inclusive app for trash collection to locate the bin's position, collect the garbage, and replace them on time.",
       "name": "Smart Trash Collector"
     },
     {
-      "description": "An Embedded system along with the Android application for remotely maintaining switches in the farm and monitoring crops along with alerts if any issues. Furthermore, added a feature for turning on and off the system remotely.",
+      "description": "An Embedded system along with the Android application for remotely maintaining switches in the farms and monitoring crops followed by alerts if any issues occur. Furthermore, a feature to turn the system in the field on and off remotely is added.",
       "name": "Smart Irrigation"
     },
     {
-      "description": "It is an Embedded systems project to automate the 75% of the ease of parking.A hardware project made with the help of multifarious sensors to guide a person to an empty parking space along with guiding to efficiently park the vehicle and save parking space.",
+      "description": "It is an Embedded systems project to automate the ease of parking.A hardware-based project made with the help of multifarious sensors to guide a person to locate the empty parking space along with guiding them to efficiently park the vehicle and save parking space. Beneficial for both customers and the parking facility.",
       "name": "Smart Parking"
     }
   ],
@@ -89,6 +89,12 @@
       "title": "Software Developer"
     },
     {
+      "company": "Uniq Data Solution",
+      "description": "My tasks included to work on new projects and develop interactive interfaces for clients. Work with Django, Java, python and SQL technologies to get the desired outcomes.Communicate with the clients to know their expectations, elevating the project by making changes.Work under teams to achieve the milestones set for the project. Stay up to date with new technologies and attain the best products out of all the knowledge gained.",
+      "duration": "04/2021 - 08/2021",
+      "title": "Junior Software Developer"
+    },
+    {
       "company": "(MTEM) Make the Ends Meet",
       "description": "I have been working on multifarious projects, based on the embedded systems designed. The tasks included designing projects based on the embedded product requirements, using Internet of things techniques for hardware development followed by web development using various software and languages like C, C++, Java, Python, and front-end technologies.",
       "duration": "2019-2021",
@@ -123,5 +129,5 @@
       "Google Cloud Platform GCP"
     ]
   },
-  "summary": "As a recent graduate from Lakehead University, having completed my Masters in Computer Science in January 2023, I bring a positive and organized approach to managing multiple priorities, while also showing a zeal to take on additional responsibilities for reaching team goals. While studying at Lakehead, I have gained expertise in various areas such as performance Algorithm design, compilers and  operating systems, computational intelligence, Artificial Intelligence, and machine learning, to name a few. Throughout my academic journey, I have worked on a multifarious range of projects, related to  Database management systems, the Internet of Things, embedded systems, data modeling and visualization, data visualization and web development using languages like C, C++, Java, Python, MERN stack, and much more.Having previously worked as a Research and Development Engineer at MTEM in India, I have honed my technical skills and problem-solving abilities, always striving to contribute to the firm's growth. Currently, I am working at Jarvis to further improve my developer skills and work on challenging projects using new technologies such as Docker, Hadoop, Sprigboot, Maven, REST API, and RDBMS, among others. I believe that being consistent, taking responsibility for one?s actions, and being diligent in all that I do, are crucial traits that help me become a better version of myself every day."
+  "summary": "As a recent graduate from Lakehead University, having completed my Master's in Computer Science in January 2023, I bring a positive and organized approach to managing multiple priorities, while also showing a zeal to take on additional responsibilities for reaching team goals. While studying at Lakehead, I have gained expertise in various areas such as performance Algorithm Design, Compilers and Operating Systems, Computational Intelligence, Artificial Intelligence, and Machine Learning, to name a few. Throughout my academic journey, I have worked on a multifarious range of projects, related to Database management systems, the Internet of Things, Embedded Systems, Data Modeling, and Visualization, and Web Development using languages like C, C++, Java, Python, javascript, React.js, and much more followed by frameworks like MERN stack, Django, Flask and much more. Having previously worked as a Research and Development Engineer at MTEM in India, I have honed my technical skills and problem-solving abilities, always striving to contribute to the firm's growth. Currently, I am working at Jarvis to further improve my developer skills and work on challenging projects using new technologies such as Docker, Hadoop, Springboot, Maven, REST API, and RDBMS, among others. I believe that being consistent, taking responsibility for one?s actions, and being diligent in all that I do, are crucial traits that help me become a better version of myself every day."
 }
