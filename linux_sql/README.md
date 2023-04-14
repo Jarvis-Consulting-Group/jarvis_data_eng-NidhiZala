@@ -29,7 +29,8 @@ bash host_usage.sh psql_host psql_port db_name psql_user psql_password
 # Implementation
 
 ## Architecture
-
+The below diagram displays the architecture of the project :
+![Architecture diagram](./assets/architecture.jpeg)
 
 ## Scripts
 Below descriptions elaborates all the scripts utilized in the project.
@@ -93,8 +94,6 @@ Use the below code to check the crontab file
 ```
 crontab -l
 ```
-## queries.sql
-
 
 ## Database Modeling
 PostGres contain the database named host_agent. The Database contains 2 tables host_info and host_usage for storing the script values received.
