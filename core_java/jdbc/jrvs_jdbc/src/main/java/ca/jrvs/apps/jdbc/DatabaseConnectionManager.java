@@ -1,4 +1,4 @@
-package com.nidhi.jrvs.jdbc;
+package ca.jrvs.apps.jdbc;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;

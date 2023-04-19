@@ -1,10 +1,8 @@
-package com.nidhi.jrvs.jdbc;
+package ca.jrvs.apps.jdbc;
 
-import javax.xml.crypto.Data;
 import java.sql.Connection;
-import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.sql.Statement;
+
 public class JDBCExecuter {
     public static void main(String... args){
         DatabaseConnectionManager dcm = new DatabaseConnectionManager("localhost:5554",

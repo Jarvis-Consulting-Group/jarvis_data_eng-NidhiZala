@@ -1,6 +1,6 @@
-package com.nidhi.jrvs.jdbc;
+package ca.jrvs.apps.jdbc;
 
-import com.nidhi.jrvs.jdbc.util.DataAccessObject;
+import ca.jrvs.apps.jdbc.util.DataAccessObject;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

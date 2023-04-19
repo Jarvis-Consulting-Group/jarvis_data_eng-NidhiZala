@@ -1,6 +1,6 @@
-package com.nidhi.jrvs.jdbc;
+package ca.jrvs.apps.jdbc;
 
-import com.nidhi.jrvs.jdbc.util.DataTransferObject;
+import ca.jrvs.apps.jdbc.util.DataTransferObject;
 
 public class Customer implements DataTransferObject {
     private long id;

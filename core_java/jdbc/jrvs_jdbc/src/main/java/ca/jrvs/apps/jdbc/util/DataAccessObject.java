@@ -1,4 +1,4 @@
-package com.nidhi.jrvs.jdbc.util;
+package ca.jrvs.apps.jdbc.util;
 
 import java.sql.*;
 import java.util.List;
