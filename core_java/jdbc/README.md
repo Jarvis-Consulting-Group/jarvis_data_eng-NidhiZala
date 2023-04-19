@@ -26,7 +26,7 @@ psql -h localhost -U postgres -d hplussport -p 5554 -f salesperson.sql
 psql -h localhost -U postgres -d hplussport -p 5554 -f orders.sql
 ```
 ## ER Diagram
-![Entity Relationship Diagram for database hplussport](/home/centos/dev/jarvis_data_eng_NidhiZala/core_java/ERD.png)
+![alt Entity Relationship Diagram for database hplussport](/home/centos/dev/jarvis_data_eng_NidhiZala/core_java/ERD.png)
 
 ## Design Patterns
 * **The Data Access Object (DAO) pattern** : This pattern is a software design approach that helps to separate the application layer from the persistence layer, usually a relational database. By providing a simplified API, the DAO pattern shields the application from the intricacies of performing CRUD operations on the underlying storage mechanism. This approach allows both layers to evolve independently, without any knowledge of each other. In this project, DAO classes were used to implement and retrieve data from the database, which was then utilized by the customer and order classes.
