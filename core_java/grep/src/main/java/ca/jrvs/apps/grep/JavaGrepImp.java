@@ -1,7 +1,7 @@
- package ca.jrvs.apps.grep;
- import org.apache.log4j.BasicConfigurator;
- import org.slf4j.Logger;
- import org.slf4j.LoggerFactory;
+package ca.jrvs.apps.grep;
+import org.apache.log4j.BasicConfigurator;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import ca.jrvs.apps.grep.ListFilesException;
 import ca.jrvs.apps.grep.FileReadException;
 import java.io.BufferedReader;
