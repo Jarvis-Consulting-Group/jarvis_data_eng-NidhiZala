@@ -12,12 +12,12 @@ As a recent graduate from Lakehead University, having completed my Master's in C
 
 ## Jarvis Projects
 
-Project source code: [https://github.com/jarviscanada/jarvis_data_eng_NidhiZala](https://github.com/jarviscanada/jarvis_data_eng_NidhiZala)
+Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-NidhiZala](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-NidhiZala)
 
 
-**Linux Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_NidhiZala/tree/master/linux_sql)]: This system enables users to monitor the machine specifications and usage data of multiple Linux systems. The monitoring agent gathers information on the hardware of each machine using Bash scripts and stores it in a PostgreSQL database that is provisioned with Docker. Resource utilization data is collected automatically using Crontab and can be analyzed using SQL queries. The tool was tested on a virtual machine running the CentOS7 distribution of Linux on the Google Cloud Platform, and every script was meticulously checked to ensure that it met all the requirements.
+**Linux Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-NidhiZala/tree/master/linux_sql)]: This system enables users to monitor the machine specifications and usage data of multiple Linux systems. The monitoring agent gathers information on the hardware of each machine using Bash scripts and stores it in a PostgreSQL database that is provisioned with Docker. Resource utilization data is collected automatically using Crontab and can be analyzed using SQL queries. The tool was tested on a virtual machine running the CentOS7 distribution of Linux on the Google Cloud Platform, and every script was meticulously checked to ensure that it met all the requirements.
 
-**Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_NidhiZala/tree/master/core_java)]:
+**Core Java Apps** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-NidhiZala/tree/master/core_java)]:
       
   - JDBC: The application comprehends the database operations using Java namely, CRUD operations(create, read, update, and delete).The Java-based app is developed utilizing a Postgres database and JDBC both operating in a containerized format using Docker container. For the purpose of passing objects across classes and modules DAO and DTO design principles are used and desired outputs are achieved.
   - GREP: Similar to the egrep tool this project aims to read all the files in the provided directory and tries to search for the regex expression that has to be searched in the program. The project uses Java, Lambda, Steams and Regular expression for designing and attaining the outputs
