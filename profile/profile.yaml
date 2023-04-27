@@ -60,15 +60,15 @@ highlighted_projects:
     #URL is optional
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: This project is an aid for disabled people. It helps the person to control objects using their brain sensing. Observing the movements in the signals and coding on the sensors, MATLAB helped to achieve the expected outcomes. \newline
-      Phase 1 - Controlling a single device with contraction and relaxation of neurons in hand. This project conducted the tests on a Servo Motor which could turn on and of by fetching movement of neurons basically, contraction and relaxation of the fist. \newline
+      Phase 1 - Controlling a single device with contraction and relaxation of neurons in hand. This project conducted the tests on a Servo Motor which could turn on and off by fetching movement of neurons basically, contraction and relaxation of the fist. \newline
       Phase 2 - Controlling devices inside the house like fans and bulbs with the help of brain signals produced, This technology can be used for people with disability in terms of providing ease where they can control everything with the help of signals.
 
   - name: "ChatterBox the Realtime Chat Application [Accepted under IEEE]"
     description: Real-time chat application with features like chatting, screen sharing, Audio call, Video call, and much more with a great user interface and smooth transitions throughout the webpage. The project was based on the MERN stack (Mongo DB, Express.js, React.js, Node.js) so that it is easily extendable and up to date
   - name: "Smart Toll Plaza"
-    description: It is a user-friendly application/wallet where the user can add their money to the wallet just like a usual app, for instance, as we add money in our amazon pay.  The wallet is connected to embedded chip requirements, the customer just passes by the toll Plazas will have an automatic deduction of their toll tax, without waiting in queues for the same.
+    description: It is a user-friendly application/wallet where the user can add their money to the wallet just like a usual app, for instance, as we add money in our amazon pay.  The wallet is connected to embedded chip requirements, the customer just passes by the toll Plazas and will have an automatic deduction of their toll tax, without waiting in queues for the same.
   - name: "Smart Trash Collector"
-    description: This project is utilized for Locating  Bins in the city and sending alerts to the city corporation the data is based on harmful Gases that are being released from bins and the level of bin filled. It is a GPS-inclusive app for trash collection to locate the bin's position, collect the garbage, and replace them on time.
+    description: This project is utilized for Locating  Bins in the city and sending alerts to the city corporation. The data based on the harmful gases that are being released from bins and the level of bin filled is processed and notified. It is a GPS-inclusive app for trash collection to locate the bin's position, collect the garbage, and replace them on time.
   - name: "Smart Irrigation"
     description: An Embedded system along with the Android application for remotely maintaining switches in the farms and monitoring crops followed by alerts if any issues occur. Furthermore, a feature to turn the system in the field on and off remotely is added.
   - name: "Smart Parking"
@@ -80,18 +80,18 @@ highlighted_projects:
 professional_experience:
   #Write your Jarvis role as a professional experience rather than training.
   - title: "Software Developer"
-    company: "Jarvis"
+    company: "Jarvis Consulting Group"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: "I have been involved in multiple projects that necessitated the utilization of various technologies such as Linux, Bash, Docker, Postgres, Java, and Spring Boot. In each project, I adopted the Scrum/Agile methodology, along with Git and Git Flow."  
   - title: "Junior Software Developer"
     company: "Uniq Data Solution"
     duration: "04/2021 - 08/2021"
-    description : "My tasks included to work on new projects and develop interactive interfaces for clients. Work with Django, Java, python and SQL technologies to get the desired outcomes.Communicate with the clients to know their expectations, elevating the project by making changes.Work under teams to achieve the milestones set for the project. Stay up to date with new technologies and attain the best products out of all the knowledge gained."
+    description : "My tasks included to work on new projects and develop interactive interfaces for clients.I worked with Django, Java, python and SQL technologies to get the desired outcomes.Communicate with the clients to know their expectations, elevating the project by making changes.Work under teams to achieve the milestones set for the project. Stay up to date with new technologies and attain the best products out of all the knowledge gained."
   - title: "Research and Development Engineer"
     company: "(MTEM) Make the Ends Meet"
     duration: "2019-2021"
-    description: "I have been working on multifarious projects, based on the embedded systems designed. The tasks included designing projects based on the embedded product requirements, using Internet of things techniques for hardware development followed by web development using various software and languages like C, C++, Java, Python, and front-end technologies."
+    description: "I have been working on various projects, based on the embedded systems designed. The tasks included designing projects based on the embedded product requirements, using Internet of things techniques for hardware development followed by web development using various software and languages like C, C++, Java, Python, and front-end technologies."
 
 #List of edcuation
 education: 
