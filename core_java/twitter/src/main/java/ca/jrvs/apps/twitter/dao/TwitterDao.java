@@ -24,7 +24,7 @@ import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 
 @Repository
-public class TwitterDao {
+public class TwitterDao  implements CrdDao<Tweet,String> {
 
     private static final String API_BASE = "https://api.twitter.com";
     private static final String POST_PATH = "/2/tweets";
@@ -63,6 +63,11 @@ public class TwitterDao {
 
         return parseResponseBody(response,HTTP_OK);
 
+    }
+
+    @Override
+    public Tweet findById(String s) {
+        return null;
     }
 
 

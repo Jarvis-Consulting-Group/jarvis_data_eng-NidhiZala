@@ -22,7 +22,6 @@ public class TwitterDaoTest {
         String consumerSecret = System.getenv("CONSUMER_SECRET");
         String accessToken = System.getenv("ACCESS_TOKEN");
         String tokenSecret = System.getenv("TOKEN_SECRET");
-        System.out.println(consumerKey + "|" + consumerSecret + "|" + accessToken + "|" + tokenSecret);
         HttpHelper httpHelper = new HttpHelperImp(consumerKey, consumerSecret, accessToken, tokenSecret);
         this.twitterDaoTest = new TwitterDao(httpHelper);
     }
@@ -50,7 +49,6 @@ public class TwitterDaoTest {
         postTweet.setId(uniqueId);
         ObjectMapper objectMapper = new ObjectMapper();
         String tweetJson = objectMapper.writeValueAsString(postTweet);
-        System.out.println(tweetJson);
         // Call the create method
         Tweet tweet = twitterDaoTest.create(postTweet);
 
