@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .component1 {
+    margin-right: 10px; /* Adjust the margin as needed */
+  }
+  
+  .component2 {
+    margin-left: 10px; /* Adjust the margin as needed */
+  }
+  
