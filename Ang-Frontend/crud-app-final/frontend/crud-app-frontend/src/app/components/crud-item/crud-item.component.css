@@ -1,0 +1,49 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .card {
+        background: linear-gradient(rgb(13, 175, 224), 10%, rgb(255, 255, 255));
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        padding: 40px;
+        width: 400px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .create-item-form .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .create-item-form label {
+    font-weight: bold;
+  }
+  
+  .create-item-form input[type="text"],
+  .create-item-form textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .create-item-form button[type="submit"] {
+    padding: 8px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .create-item-form button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
