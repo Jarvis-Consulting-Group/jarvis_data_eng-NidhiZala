@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Sample 1",
+    "host": "host1",
+    "date": "26/09/1998",
+    "location": "India"
+  },
+  {
+    "id": 2,
+    "name": "Sample 1",
+    "host": "host1",
+    "date": "26/09/1998",
+    "location": "India"
+  },
+  null,
+  {
+    "id": 3,
+    "name": "Sample 1",
+    "host": "host1",
+    "date": "26/09/1998",
+    "location": "India"
+  }
+]
