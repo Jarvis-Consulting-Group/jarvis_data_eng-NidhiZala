@@ -1,0 +1,15 @@
+<div class="container">
+  <h2>Trader Account Details</h2>
+  <div *ngIf="trader">
+    <p>First Name: {{ trader.firstName }}</p>
+    <p>Last Name: {{ trader.lastName }}</p>
+    <p>Email: {{ trader.email }}</p>
+    <p>Date of Birth: {{ trader.dob }}</p>
+    <p>Country: {{ trader.country }}</p>
+    <p>Amount of Funds: {{ trader.funds }}</p> <!-- Update this line -->
+  </div>
+  <div class="buttons">
+    <button (click)="openDepositDialog()">Deposit Funds</button>
+    <button (click)="openWithdrawDialog()">Withdraw Funds</button>
+  </div>
+</div>
